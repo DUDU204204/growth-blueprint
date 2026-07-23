@@ -7,7 +7,7 @@
 פותחים Claude Code ומריצים:
 
 ```
-/plugin marketplace add dudu-nahum/growth-blueprint
+/plugin marketplace add DUDU204204/growth-blueprint
 /plugin install growth-blueprint@dudu-nahum
 ```
 
