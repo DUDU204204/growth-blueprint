@@ -1,0 +1,11 @@
+{
+  "name": "dudu-nahum",
+  "owner": { "name": "Dudu Nahum" },
+  "plugins": [
+    {
+      "name": "growth-blueprint",
+      "source": "./",
+      "description": "מצפן הצמיחה — הסקילים השיווקיים המלאים: קופי, וובינר, נחיתה, פאנל, הצעה, אווטאר, CRO, ייעוץ עסקי"
+    }
+  ]
+}
